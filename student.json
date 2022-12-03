@@ -1,0 +1,120 @@
+[
+  {
+    "fName": "Imran",
+    "mName": "Hossain",
+    "lName": "Rana",
+    "id": "71",
+    "batch": "Spring",
+    "department": "CSE",
+    "degree": "BSC",
+    "semester": [
+      {
+        "semCode": "Fall",
+        "year": "2022",
+        "courses": [
+          {
+            "course_id": "CSE 101",
+            "course_name": "Introduction to Computer Science",
+            "instructor_name": "Mainul",
+            "credits": 3
+          },
+          {
+            "course_id": "CSE 220",
+            "course_name": "Data Structures",
+            "instructor_name": "Khalil",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "semCode": "Spring",
+        "year": "2023",
+        "courses": [
+          {
+            "course_id": "CSE 110",
+            "course_name": "Programming Language",
+            "instructor_name": "Abdullah saleh",
+            "credits": 3
+          },
+          {
+            "course_id": "CSE 221",
+            "course_name": "Algorithms",
+            "instructor_name": "Bablu Miah",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "semCode": "Fall",
+        "year": "2022",
+        "courses": [
+          {
+            "course_id": "CSE 321",
+            "course_name": "Operating Systems ",
+            "instructor_name": "Tomal",
+            "credits": 3
+          },
+          {
+            "course_id": "CSE 260",
+            "course_name": "Digital Logic Design",
+            "instructor_name": "Shakil",
+            "credits": 3
+          },
+          {
+            "course_id": "CSE 330",
+            "course_name": "Numerical Methods ",
+            "instructor_name": "Rony",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "semCode": "Spring",
+        "year": "2023",
+        "courses": [
+          {
+            "course_id": "CSE 321",
+            "course_name": "Operating Systems ",
+            "instructor_name": "Maruf",
+            "credits": 3
+          },
+          {
+            "course_id": "CSE 340",
+            "course_name": "Computer Architecture",
+            "instructor_name": "Fahim",
+            "credits": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "fName": "Sazzad",
+    "mName": "Hossain",
+    "lName": "Nayem",
+    "id": "69",
+    "batch": "Spring",
+    "department": "CSE",
+    "degree": "BSC",
+    "semester": [
+      {
+        "semCode": "Fall",
+        "year": "2022",
+        "courses": [
+          {
+            "course_id": "CSE 101",
+            "course_name": "Introduction to Computer Science",
+            "instructor_name": "Nandita",
+            "credits": 3
+          },
+          {
+            "course_id": "CSE 220",
+            "course_name": "Data Structures",
+            "instructor_name": "Easine",
+            "credits": 3
+          }
+        ]
+      }
+    ]
+  }
+]

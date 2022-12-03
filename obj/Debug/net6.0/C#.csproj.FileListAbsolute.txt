@@ -1,0 +1,34 @@
+D:\Hablu\C#\bin\Debug\net6.0\C#.exe
+D:\Hablu\C#\bin\Debug\net6.0\C#.deps.json
+D:\Hablu\C#\bin\Debug\net6.0\C#.runtimeconfig.json
+D:\Hablu\C#\bin\Debug\net6.0\C#.dll
+D:\Hablu\C#\bin\Debug\net6.0\C#.pdb
+D:\Hablu\C#\obj\Debug\net6.0\C#.csproj.AssemblyReference.cache
+D:\Hablu\C#\obj\Debug\net6.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hablu\C#\obj\Debug\net6.0\C#.AssemblyInfoInputs.cache
+D:\Hablu\C#\obj\Debug\net6.0\C#.AssemblyInfo.cs
+D:\Hablu\C#\obj\Debug\net6.0\C#.csproj.CoreCompileInputs.cache
+D:\Hablu\C#\obj\Debug\net6.0\C#.dll
+D:\Hablu\C#\obj\Debug\net6.0\refint\C#.dll
+D:\Hablu\C#\obj\Debug\net6.0\C#.pdb
+D:\Hablu\C#\obj\Debug\net6.0\C#.genruntimeconfig.cache
+D:\Hablu\C#\obj\Debug\net6.0\ref\C#.dll
+D:\Hablu\C#\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Hablu\C#\obj\Debug\net6.0\C#.csproj.CopyComplete
+I:\Astha IT Projects\Assignment-03\bin\Debug\net6.0\C#.exe
+I:\Astha IT Projects\Assignment-03\bin\Debug\net6.0\C#.deps.json
+I:\Astha IT Projects\Assignment-03\bin\Debug\net6.0\C#.runtimeconfig.json
+I:\Astha IT Projects\Assignment-03\bin\Debug\net6.0\C#.dll
+I:\Astha IT Projects\Assignment-03\bin\Debug\net6.0\C#.pdb
+I:\Astha IT Projects\Assignment-03\bin\Debug\net6.0\Newtonsoft.Json.dll
+I:\Astha IT Projects\Assignment-03\obj\Debug\net6.0\C#.csproj.AssemblyReference.cache
+I:\Astha IT Projects\Assignment-03\obj\Debug\net6.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+I:\Astha IT Projects\Assignment-03\obj\Debug\net6.0\C#.AssemblyInfoInputs.cache
+I:\Astha IT Projects\Assignment-03\obj\Debug\net6.0\C#.AssemblyInfo.cs
+I:\Astha IT Projects\Assignment-03\obj\Debug\net6.0\C#.csproj.CoreCompileInputs.cache
+I:\Astha IT Projects\Assignment-03\obj\Debug\net6.0\C#.csproj.CopyComplete
+I:\Astha IT Projects\Assignment-03\obj\Debug\net6.0\C#.dll
+I:\Astha IT Projects\Assignment-03\obj\Debug\net6.0\refint\C#.dll
+I:\Astha IT Projects\Assignment-03\obj\Debug\net6.0\C#.pdb
+I:\Astha IT Projects\Assignment-03\obj\Debug\net6.0\C#.genruntimeconfig.cache
+I:\Astha IT Projects\Assignment-03\obj\Debug\net6.0\ref\C#.dll

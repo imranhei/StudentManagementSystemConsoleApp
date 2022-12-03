@@ -1,0 +1,54 @@
+[
+  {
+    "fName": "Imran",
+    "mName": "Hossain",
+    "lName": "Rana",
+    "id": "71",
+    "batch": "Spring",
+    "department": "CSE",
+    "degree": "BSC",
+    "semester": [
+      {
+        "semCode": "Summer",
+        "year": "2022",
+        "courses": [
+          {
+            "course_id": "CSE 101",
+            "course_name": "Introduction to Computer Science",
+            "instructor_name": "Abdullah",
+            "credits": 3
+          },
+          {
+            "course_id": "CSE 220",
+            "course_name": "Data Structures",
+            "instructor_name": "Mamun",
+            "credits": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "fName": "Sazzad",
+    "mName": "Hossain",
+    "lName": "Nayem",
+    "id": "69",
+    "batch": "Spring",
+    "department": "CSE",
+    "degree": "BSC",
+    "semester": [
+      {
+        "semCode": "Summer",
+        "year": "2022",
+        "courses": [
+          {
+            "course_id": "CSE 101",
+            "course_name": "Introduction to Computer Science",
+            "instructor_name": "Bablu",
+            "credits": 3
+          }
+        ]
+      }
+    ]
+  }
+]
