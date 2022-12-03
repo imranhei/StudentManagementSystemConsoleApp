@@ -21,3 +21,7 @@ Admin can also add a new semester to those students' schedules or exit from this
 3.Delete Student:
 <br>
 The admin is also able to delete any student from the list by ID.
+<br>
+4.View Student List:
+<br>
+The admin can view a list of all students.
