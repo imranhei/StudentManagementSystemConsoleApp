@@ -1,6 +1,7 @@
 # StudentManagementSystemConsoleApp
 This is a Student Management System console application project created with C#.<br>
 First of all, it shows a list of students and gives four options: Add Student, View Student Details, Delete Student, and View Student List.
+<br>
 ![image](https://user-images.githubusercontent.com/76594049/205429392-d30030be-ae4c-4cff-9fde-263e0225ffd1.png)
 <br>
 Features:
